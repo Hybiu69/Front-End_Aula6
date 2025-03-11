@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.botaoazul {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+
+.botaover {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+
+.quadrado-azul {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.quadrado-vermelho {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+body.branco {
+    background-color: white;
+}
+
+body.roxo {
+    background-color: blueviolet;
+}
+
+body.azul {
+    background-color: blue;
+}
+
+body.verde {
+    background-color: rgb(0, 250, 150);
+}
